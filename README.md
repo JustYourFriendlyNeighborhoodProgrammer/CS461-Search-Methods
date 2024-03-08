@@ -38,4 +38,4 @@ Your task involves implementing different search methods to find a route between
 
 **Note:** The provided database is limited, excluding many real-world roads for simplicity.
 
-**Also Note:** This was made with ChatGPT
+**Also Note:** This was made with ChatGPT 3.5
