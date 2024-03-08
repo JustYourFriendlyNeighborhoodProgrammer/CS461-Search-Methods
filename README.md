@@ -17,7 +17,7 @@ This exercise will take the form of an experimental report detailing your findin
 - A* search
 <br />
 (5 Total Methods)<br />
-You'll want to think about the initial conditions and how to check for a "valid" sequence and GOAL check at each step of the search process.
+You'll want to think about the initial conditions and how to check for a "valid" sequence and GOAL check at each step of the search process.<br />
 NOTE: It's not necessary to reinvent the wheel here, many implementations of these methods exist and you might even get a "fair" solution from an LLM. (If you do use a generative model to help you code, please be sure to include the prompts you used as part of the generation process -- this isn't to grade your effort or use of the model, but simply good practice for source  documentation in prompt-centric engineering!)  Of course, you are absolutely free (and always encouraged) to generate your own implementations of these systems, but please use the pseudocode and function descriptions from your text as a guideline. 
 
 Programming details:
