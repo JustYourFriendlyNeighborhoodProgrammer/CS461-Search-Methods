@@ -23,7 +23,7 @@ NOTE: It's not necessary to reinvent the wheel here, many implementations of the
 # Programming details:
 - You can generate your program in C, C++, Python, C#, or Java. (If you want to use some
 other language I’m willing to discuss it but you’ll need to come to me in advance.)
-- You’re given 2 data files:
+- You’re given 2 data files:<br />
 - The first is a list of all the cities we know about—mostly small towns in southern Kansas —and the latitude and longitude of each.
 Names have been tweaked so that city names consisting of more than one word have an underscore rather than a space between the words (South_Haven rather than South Haven), to simplify input.
 - A file (CSV) listing each town (pair) as a related adjacent node. 
