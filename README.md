@@ -6,9 +6,8 @@ The first program of the semester involves route-finding using multiple algorith
 
 For this assignment, you’ll be doing a small example of a large problem—route-finding.
 Given a list of cities and their adjacencies—from city A, what cities are next to it—can a route be found
-from city A to city X?
-As discussed in class I would like you to utilize your resources to rapidly implement a version of each of the major methods we've discussed (some are pending) in chapter 2. 
-This exercise will take the form of an experimental report detailing your findings of a comparison of each of the following methods:
+from city A to city X?As discussed in class I would like you to utilize your resources to rapidly implement a version of each of the major methods we've discussed (some are pending) in chapter 2. 
+This exercise will take the form of an experimental report detailing your findings of a comparison of each of the following methods:<br />
 # undirected (blind) brute-force approaches 
 - breadth-first search
 - depth-first search
