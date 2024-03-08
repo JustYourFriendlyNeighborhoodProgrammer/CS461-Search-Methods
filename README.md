@@ -41,10 +41,10 @@ If you want to get fancy, you might see how the route generated looks as a map (
 Note that your database is very limited, and many of the real-world roads are left out for simplicity*.
 <br />
 Your program should also: <br />
-1. measure and print the total time needed to find the route (and include a time-out).
-2. calculate and display the total distance (node to node) for the cities visited on the route selected.
-3. (opt) determine the total memory used (scale of the arrays) to find the solution.
-4. Return to the search method selection and allow a new method to be selected for comparison. 
+1. measure and print the total time needed to find the route (and include a time-out). <br />
+2. calculate and display the total distance (node to node) for the cities visited on the route selected. <br />
+3. (opt) determine the total memory used (scale of the arrays) to find the solution. <br />
+4. Return to the search method selection and allow a new method to be selected for comparison. <br />
 <br />
 *A real mapping application gives directions using much more complicated metrics, including variable road conditions, construction closure, fuel economy, and toll costs.
 <br />
