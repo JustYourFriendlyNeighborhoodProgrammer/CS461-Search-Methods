@@ -26,11 +26,11 @@ other language I’m willing to discuss it but you’ll need to come to me in ad
 • You’re given 2 data files:
 ◦ The first is a list of all the cities we know about—mostly small towns in southern Kansas —and
 the latitude and longitude of each.
-# Names have been tweaked so that city names consisting of more than one word have an
+Names have been tweaked so that city names consisting of more than one word have an
 underscore rather than a space between the words (South_Haven rather than South Haven), to
 simplify input.
 ◦ A file (CSV) listing each town (pair) as a related adjacent node. 
-# be aware adjacency is symmetric: If A is adjacent to B, then B is adjacent to A. This may not be
+be aware adjacency is symmetric: If A is adjacent to B, then B is adjacent to A. This may not be
 listed comprehensively if your method requires that bidirectional connections be explicitly stated, you may need to generate additional pairs for the symmetrical connection to work. {That is, tell the program that it’s possible to go from listed A as adjacent to B or listed B as adjacent to A.}
 --> Be sure to take this into account when setting up your program’s data structures. If adjacency is listed
 in either direction, it should be considered present in both directions.
