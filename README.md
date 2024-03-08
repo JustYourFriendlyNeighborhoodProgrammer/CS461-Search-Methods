@@ -33,7 +33,7 @@ listed comprehensively if your method requires that bidirectional connections be
 --> Be sure to take this into account when setting up your program’s data structures. If adjacency is listed
 in either direction, it should be considered present in both directions.
 <br />
-# Your program should:<br />
+# Your program should: <br />
 Ask the user for their starting and ending towns, making sure they’re both towns in the database.
 Ask them then to select the search method they wish to use to find a route to the destination.
 If that route exists, the program should then print the route the method found in order, from origin to destination.
